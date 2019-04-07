@@ -137,7 +137,6 @@ Actualiza el `index.html` para incluir el siguiente archivo JavaScript al *final
 <script data-cfasync="false" type="text/javascript"
 src="https://cdn.rawgit.com/dwyl/html-form-send-email-via-google-script-without-server/master/form-submission-handler.js"></script>
 ```
-
 Esto ahora va a mostrar un *message* de "Gracias" cuando el formlario es enviado:
 
 ![thankyou message](https://cloud.githubusercontent.com/assets/194400/10561147/4086a89a-7517-11e5-840d-7f490353e225.png)
